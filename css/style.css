@@ -1,0 +1,44 @@
+.container-bg-01{
+	background-image: url('../img/slide/slideshow-25.jpg');
+	max-width: 100%;
+}
+.cover {
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 300px;
+	padding-bottom: 300px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.container-bg-02{
+	background-image: url('../img/about/about-us-bg.png');
+}
+
+.container-bg-03{
+	background-image: url('../img/homepage/special-bg.jpg');
+}
+
+.container-bg-04{
+	background-color:#fafafa;
+}
+
+.container-bg-05{
+	background-color:#000;
+}
+
+.container-bg-06{
+	background-color:#fafafa;
+}
+
+.test{
+	color:#000;
+	-webkit-text-stroke: 1px;
+	-webkit-text-stroke-color: #fafafa;
+	/*text-shadow: 2px 0 0 0 #fafafa, 0 2px 0 0 #fafafa, 0 0 2px 0 #fafafa, 0 0 0 2px #fafafa;*/
+}
+footer{
+	background-color:#000;
+}
